@@ -1,3 +1,5 @@
+This fork uses Google+ / Hangouts emojis on `google-emojis` branch.
+
 ## Emojicon
 
 Do you like emojis in Whatsapp, iMessage? [Emojicon](http://rockerhieu.github.io/emojicon/) is a library to implement such a thing for Android.
